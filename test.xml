@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+    <title>ARD</title>
+    <description></description>
+    <stream_url><![CDATA[https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ARD ONE</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn-one.ard.de/ardone/hls/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ARD Alpha</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ARD Tagesschau</title>
+    <description></description>
+    <stream_url><![CDATA[https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ZDF</title>
+    <description></description>
+    <stream_url><![CDATA[http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ZDF neo</title>
+    <description></description>
+    <stream_url><![CDATA[http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ZDF info</title>
+    <description></description>
+    <stream_url><![CDATA[http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>MDR Sachsen</title>
+    <description></description>
+    <stream_url><![CDATA[https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>MDR Thüringen</title>
+    <description></description>
+    <stream_url><![CDATA[https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>MDR Sachsen-Anhalt</title>
+    <description></description>
+    <stream_url><![CDATA[https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>PHOENIX</title>
+    <description></description>
+    <stream_url><![CDATA[http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>RBB Berlin</title>
+    <description></description>
+    <stream_url><![CDATA[https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>RBB Brandenburg</title>
+    <description></description>
+    <stream_url><![CDATA[https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>BR Nord</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>BR Süd</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>HR</title>
+    <description></description>
+    <stream_url><![CDATA[https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>SR</title>
+    <description></description>
+    <stream_url><![CDATA[https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>SWR BW</title>
+    <description></description>
+    <stream_url><![CDATA[https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>SWR RP</title>
+    <description></description>
+    <stream_url><![CDATA[https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>NDR Niedersachsen</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>NDR Hamburg</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>NDR Mecklenburg-Vorpommern</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>NDR Schleswig-Holstein</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>DW</title>
+    <description></description>
+    <stream_url><![CDATA[https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR (weltweit)</title>
+    <description></description>
+    <stream_url><![CDATA[https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Münsterland</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Südwestfalen</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Ostwestfalen Lippe</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018026/wdrlz_bielefeld/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Bonn</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018021/wdrlz_bonn/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Dortmund</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018022/wdrlz_dortmund/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Aachen</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018019/wdrlz_aachen/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Düsseldorf</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018023/wdrlz_duesseldorf/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Köln</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2023550/wdrlz_koeln/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR (Deutschland)</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Bergisches Land</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Ruhr</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>WDR Lokalzeit Duisburg</title>
+    <description></description>
+    <stream_url><![CDATA[https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ARTE DE</title>
+    <description></description>
+    <stream_url><![CDATA[https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ARTE FR</title>
+    <description></description>
+    <stream_url><![CDATA[https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>3Sat</title>
+    <description></description>
+    <stream_url><![CDATA[https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>kika</title>
+    <description></description>
+    <stream_url><![CDATA[https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ORF-1</title>
+    <description></description>
+    <stream_url><![CDATA[https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ORF-2</title>
+    <description></description>
+    <stream_url><![CDATA[https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ORF-3</title>
+    <description></description>
+    <stream_url><![CDATA[https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title>ORF-Sport</title>
+    <description></description>
+    <stream_url><![CDATA[https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8]]></stream_url>
+</channel>
+</items>
