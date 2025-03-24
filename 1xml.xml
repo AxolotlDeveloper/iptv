@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240211">
+<channel id="WeltderWunder.de"><display-name>Welt der Wunder</display-name><icon src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png"/><url>https://N24Doku.de</url></channel>
+<channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://tvplus.com.tr</url></channel>
+
+<programme start="20240211000000 +0000" stop="20240211040000 +0000" channel="WeltderWunder.de"><title lang="tr">Doğrusu Ne?</title><desc lang="tr">Dünya’da olup bitenin hızına yetişmenin zor olduğu bir ortamda çıkan seslere bir cevap arayan program Doğrusu ne? uzman konukların yorum ve analizleri, Ümit Çetin&apos;in moderatörlüğü ile ekrana geliyor.</desc><category lang="tr">Politika</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202402/20240206/81/2110194129865eb9542c.jpg"/></programme>
+</tv>
