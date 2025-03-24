@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240211">
-<channel id="N24Doku.de"><display-name>N24Doku.de</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png"/><url>https://N24Doku.de</url></channel>
+<channel id="N24Doku.de"><display-name>N24 Doku</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png"/><url>https://N24Doku.de</url></channel>
 <channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://tvplus.com.tr</url></channel>
 </tv>
